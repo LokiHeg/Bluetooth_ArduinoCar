@@ -1,0 +1,30 @@
+﻿Build started 11.12.2012 15:13:51.
+     1>Project "C:\Projects\Bluetooth_Car\SaturdayDebug\SaturdayDebug\SaturdayDebug.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\SaturdayDebug.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\SaturdayDebug.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt SaturdayDebug.cpp /clr:nostdlib 
+         SaturdayDebug.cpp
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Projects\Bluetooth_Car\SaturdayDebug\Debug\SaturdayDebug.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\SaturdayDebug.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Projects\Bluetooth_Car\SaturdayDebug\Debug\SaturdayDebug.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\SaturdayDebug.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         SaturdayDebug.vcxproj -> C:\Projects\Bluetooth_Car\SaturdayDebug\Debug\SaturdayDebug.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Projects\Bluetooth_Car\SaturdayDebug\Debug\SaturdayDebug.exe;#1" /manifest Debug\SaturdayDebug.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\SaturdayDebug.unsuccessfulbuild".
+         Touching "Debug\SaturdayDebug.lastbuildstate".
+     1>Done Building Project "C:\Projects\Bluetooth_Car\SaturdayDebug\SaturdayDebug\SaturdayDebug.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.95

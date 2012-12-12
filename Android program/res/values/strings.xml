@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">A&amp;A</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">A&amp;A</string>
+    <string name="btn_FORWARD">Вперед</string>
+    <string name="btn_BACK">Назад</string>
+    <string name="btn_STOP">Авто</string>
+    <string name="btn_LEFT">Налево</string>
+    <string name="btn_RIGHT">Направо</string>
+    <string name="btn_EXIT">Выход</string>
+</resources>
